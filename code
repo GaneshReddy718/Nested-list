@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+        <li><mark>HEROS</mark>
+            <ul>
+                <li>TOLLYWOOD
+                    <ul>
+                        <li><strike>ALLU ARJUN</strike></li>
+                        <li><del>PAWAN KALYAN</del></li>
+                        <li>PRABHAS</li>
+                    </ul>
+                </li>
+                <li>BOLLYWOOD
+                    <ul>
+                        <li><u>RANBHIR</u></li>
+                        <li>RANVEER</li>
+                        <li>DEEPIKA</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>MARVEL STUDIO
+            <ul>
+                <li>AVENGERS
+                    <ul>
+                        <li><b>IRONMAN</b></li>
+                        <li><i>THOR</i></li>
+                        <li>CAPTAIN AMERICA</li>
+                    </ul>
+                </li>
+                <li>X-MAN
+                    <ul>
+                        <li><small>WOLVERINE</small></li>
+                        <li><big>VAMSHI</big></li>
+                        <li>MAGNETO</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</body>
+</html>
