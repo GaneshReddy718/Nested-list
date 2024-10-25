@@ -62,4 +62,3 @@ The `<body>` contains a nested list structure representing three main categories
 ### Visual Hierarchy & Styling:
 - The structure is mainly a nested list, but some mistakes are made with `<ul>` nesting. Proper `<ul>` and `<li>` nesting should be ensured.
 - Different HTML tags like `<mark>`, `<strike>`, `<del>`, `<b>`, `<i>`, `<u>`, `<small>`, and `<big>` are used to add emphasis or style.
-
